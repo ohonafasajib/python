@@ -1,7 +1,8 @@
 # python
-# Hello friends. This is Ohonafsajib. I will share my learning on python in this section.
 
-# Here we have 05 problems on "Condition"
+Hello friends. This is Ohonafsajib. I will share my learning on python in this section.
+
+Here we have 05 problems on "Condition"
 
 1. Write a python program to accept two integers and check whether they are equal or not.
 2. Write a python program to check whether a given number is positive or negative.
